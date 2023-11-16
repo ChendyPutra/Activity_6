@@ -18,6 +18,7 @@ import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import com.example.activity_6.Data.OrderUIState
+import com.example.activity_6.Komponen.FormatLabelHarga
 
 @Composable
 fun OrderData (
