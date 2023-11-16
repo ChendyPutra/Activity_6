@@ -6,8 +6,8 @@
     <string name="cancel">Batal</string>
     <string name="vanilla">Vanilla</string>
     <string name="lemon">Matcha</string>
-    <string name="natural">Original</string>
-    <string name="milky">Chocolate</string>
+    <string name="original">Original</string>
+    <string name="cokelat">Chocolate</string>
     <string name="lyche">Lyche</string>
     <string name="order_summary">Ringkasan Order</string>
     <string name="send">Send Order to Another App</string>
