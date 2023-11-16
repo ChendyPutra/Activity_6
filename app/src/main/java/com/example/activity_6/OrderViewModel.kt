@@ -21,6 +21,15 @@ class OrderViewModel {
             )
         }
     }
+    fun setProfile(listProfile: MutableList<String>){
+        _stateUI.update { stateSaatIni ->
+            stateSaatIni.copy(
+                nama = listProfile[0],
+                no_tlp = listProfile[1],
+                alamat = listProfile[2]
+            )
+        }
+    }
 
     fun setRasa(rasaPilihan: String) {
         _stateUI.update { stateSaatIni ->
